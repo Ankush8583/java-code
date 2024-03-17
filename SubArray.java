@@ -24,5 +24,7 @@ public class SubArray {
         int num[] ={3,5,6,7,8,9};
 
         subArray(num);
+
+        System.out.print("=====================================");
     }
 }
