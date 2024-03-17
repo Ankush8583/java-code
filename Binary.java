@@ -31,7 +31,5 @@ public class Binary {
 
         System.out.println(findKey(number,key));
        // System.out.println(find);
-
-        System.out.println("=======");
     }
 }

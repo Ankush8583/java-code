@@ -17,7 +17,6 @@ public class Maxvalue {
         int num=findMax(value,key);
 
         System.out.println(num);
-        System.out.println("===========");
     }
 
 }
